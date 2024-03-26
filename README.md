@@ -1,3 +1,3 @@
 # lecture-2-repo
-## something
-THis is **lecture** 2.
+## giit & github
+This is **lecture** 2.
