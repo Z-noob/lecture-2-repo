@@ -2,3 +2,4 @@
 ## giit & github
 This is **lecture** 3.
 This has beeen edited.
+Editing the README from GitHub.
